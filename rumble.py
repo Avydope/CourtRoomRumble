@@ -163,13 +163,12 @@ else:
 
   
 # helip = True
-# print("Fuck you")
 # input4 = int(input("Type g for Grow or s to Suit for P1: ")
 # while helip == True:
 #   if input4 == g:
-#     print("I'm a dumass")
+#     print("I'm a dum")
 #   elif input4 == s:
-#     print("I fuck my ma")
+#     print("I suck")
 #   else:
 #     pass
 
